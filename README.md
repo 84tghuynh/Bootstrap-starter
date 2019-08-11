@@ -12,7 +12,8 @@
  3. Create folders for local project
 
     css
-      create a css custom for prject: style.css
+    
+      create a css custom file for project: style.css
       
     js
     
