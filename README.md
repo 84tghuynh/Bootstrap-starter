@@ -13,7 +13,9 @@
 
     css
       create a css custom for prject: style.css
+      
     js
+    
     img
 
     index.html file.
