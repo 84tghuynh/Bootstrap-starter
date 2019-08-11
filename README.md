@@ -28,7 +28,7 @@
 
     Change to:
     <link href="css/bootstrap.css" rel="stylesheet" >
-    <!-- Custom styles for this template -->
+
     <link href="css/style.css" rel="stylesheet">
 
     <script src="js/bootstrap.js" ></script>
