@@ -2,25 +2,25 @@
 
  1. Download bootstrap-4.3.1-dist.zip of Compiled CSS and JS from link
 
- https://getbootstrap.com/docs/4.3/getting-started/download/
+    https://getbootstrap.com/docs/4.3/getting-started/download/
 
  2. Extract bootstrap-4.3.1-dist.zip
 
- Copy css/bootstrap.css to css folder of local project
- Copy js/bootstrap.js to js folder of local project
+    Copy css/bootstrap.css to css folder of local project
+    Copy js/bootstrap.js to js folder of local project
 
  3. Create folders for local project
 
- css
- js
- img
+    css
+    js
+    img
 
- index.html file.
+    index.html file.
 
  4. Copy source of Starter-template from link, then paste to index.html
 
- https://getbootstrap.com/docs/4.3/examples/starter-template/
+    https://getbootstrap.com/docs/4.3/examples/starter-template/
 
- Note: Right click and click View source
+    Note: Right click and click View source
 
  5. Modify the content of index.html
