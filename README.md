@@ -31,8 +31,15 @@
  5. Modify the content of index.html
 
     Change to:
+    
     <link href="css/bootstrap.css" rel="stylesheet" >
+    
 
     <link href="css/style.css" rel="stylesheet">
+    
 
     <script src="js/bootstrap.js" ></script>
+    
+6. Note: jquery insert before bootstrap
+
+ <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
