@@ -7,6 +7,7 @@
  2. Extract bootstrap-4.3.1-dist.zip
 
     Copy css/bootstrap.css to css folder of local project
+    
     Copy js/bootstrap.js to js folder of local project
 
  3. Create folders for local project
