@@ -32,11 +32,11 @@
 
     Change to:
     
-    *** <link href="css/bootstrap.css" rel="stylesheet">
+    ***<link href="css/bootstrap.css" rel="stylesheet">***
     
-    *** <link href="css/style.css" rel="stylesheet">
+    ***<link href="css/style.css" rel="stylesheet">***
     
-    *** <script src="js/bootstrap.js" ></script>
+    <script src="js/bootstrap.js" ></script>
     
 6. Note: jquery insert before bootstrap
 
