@@ -32,7 +32,7 @@
 
     Change to:
     
-    ***_<link href="css/bootstrap.css" rel="stylesheet">
+    *** link href="css/bootstrap.css" rel="stylesheet">
     
     ***_<link href="css/style.css" rel="stylesheet">
     
